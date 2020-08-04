@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.cardBox {
+    display: flex;
+    font-family: sans-serif;
+}
+
+.imgBox {
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.poster {
+    margin-bottom: 15px;
+}
+
+.image {
+    margin-bottom: 12px;
+}

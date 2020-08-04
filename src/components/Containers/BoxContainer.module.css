@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    padding: 25px;
+    border-bottom: 1px solid #bfc7c8;
+    margin-bottom: 8px;
+}
+
+.box:last-of-type {
+    border: none;
+}
+
+.box:first-of-type {
+    padding-top: 0;
+}
